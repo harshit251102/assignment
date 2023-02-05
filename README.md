@@ -1,5 +1,6 @@
-# Web App Detect the parts of speech for each sentence.
+# Web App to detect the parts of speech for each sentence.
 
+#Tech Stack used - ReactJS, NodeJS, ExpressJS
 
 To try the project:-
 1. Clone the repo in your system.
